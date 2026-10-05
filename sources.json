@@ -1,0 +1,170 @@
+[
+  {
+    "source_id": "fitgirl",
+    "source_name": "FitGirl",
+    "url": "https://hydralinks.cloud/sources/fitgirl.json",
+    "is_protected": 1,
+    "enabled": 1
+  },
+  {
+    "source_id": "byxatab",
+    "source_name": "ByXatab",
+    "url": "https://hydralinks.cloud/sources/xatab.json",
+    "is_protected": 1,
+    "enabled": 0
+  },
+  {
+    "source_id": "dodi",
+    "source_name": "DODI",
+    "url": "https://hydralinks.cloud/sources/dodi.json",
+    "is_protected": 1,
+    "enabled": 0
+  },
+  {
+    "source_id": "online_fix",
+    "source_name": "Online-Fix",
+    "url": "https://hydralinks.cloud/sources/onlinefix.json",
+    "is_protected": 1,
+    "enabled": 0
+  },
+  {
+    "source_id": "empress",
+    "source_name": "Empress",
+    "url": "https://hydralinks.cloud/sources/empress.json",
+    "is_protected": 1,
+    "enabled": 0
+  },
+  {
+    "source_id": "free_gog",
+    "source_name": "Free GOG",
+    "url": "https://hydralinks.cloud/sources/gog.json",
+    "is_protected": 1,
+    "enabled": 0
+  },
+  {
+    "source_id": "kaoskrew",
+    "source_name": "KaOsKrew",
+    "url": "https://hydralinks.cloud/sources/kaoskrew.json",
+    "is_protected": 1,
+    "enabled": 0
+  },
+  {
+    "source_id": "tiny_repacks",
+    "source_name": "Tiny-Repacks",
+    "url": "https://hydralinks.cloud/sources/tinyrepacks.json",
+    "is_protected": 1,
+    "enabled": 0
+  },
+  {
+    "source_id": "steamrip",
+    "source_name": "SteamRip",
+    "url": "https://hydralinks.cloud/sources/steamrip.json",
+    "is_protected": 1,
+    "enabled": 0
+  },
+  {
+    "source_id": "atopgames",
+    "source_name": "AtopGames",
+    "url": "https://hydralinks.cloud/sources/atop-games.json",
+    "is_protected": 1,
+    "enabled": 0
+  },
+  {
+    "source_id": "rexagames",
+    "source_name": "RexaGames",
+    "url": "https://hydralinks.cloud/sources/rexagames.json",
+    "is_protected": 1,
+    "enabled": 0
+  },
+  {
+    "source_id": "psxroms",
+    "source_name": "PsxRoms",
+    "url": "https://hydralinks.cloud/sources/psx-roms.json",
+    "is_protected": 1,
+    "enabled": 0
+  },
+  {
+    "source_id": "david_kazumi",
+    "source_name": "David Kazumi",
+    "url": "https://davidkazumisource.com/fontekazumi.json",
+    "is_protected": 1,
+    "enabled": 0
+  },
+  {
+    "source_id": "steamgg",
+    "source_name": "SteamGG",
+    "url": "https://wkeynhk.online/steamgg.json",
+    "is_protected": 0,
+    "enabled": 0
+  },
+  {
+    "source_id": "redump",
+    "source_name": "Redump",
+    "url": "https://wkeynhk.online/redump.json",
+    "is_protected": 0,
+    "enabled": 0
+  },
+  {
+    "source_id": "ps1_ps3_rutracker",
+    "source_name": "PS1-PS3 Rutracker",
+    "url": "https://wkeynhk.online/rt_ps.json",
+    "is_protected": 0,
+    "enabled": 0
+  },
+  {
+    "source_id": "rutracker_rutor",
+    "source_name": "Rutracker & Rutor",
+    "url": "https://wkeynhk.online/rutor.json",
+    "is_protected": 0,
+    "enabled": 0
+  },
+  {
+    "source_id": "retroarch_games",
+    "source_name": "RetroArch Games",
+    "url": "https://wkeynhk.online/no-intro.json",
+    "is_protected": 0,
+    "enabled": 0
+  },
+  {
+    "source_id": "shisuy_source",
+    "source_name": "Shisuy's Source",
+    "url": "https://raw.githubusercontent.com/Shisuiicaro/source/refs/heads/main/shisuyssource.json",
+    "is_protected": 0,
+    "enabled": 0
+  },
+  {
+    "source_id": "hydrasources_freetp",
+    "source_name": "HydraSources | FreeTp.Org",
+    "url": "https://hydrasources.su/freetp_games.json",
+    "is_protected": 0,
+    "enabled": 0
+  },
+  {
+    "source_id": "ankergames",
+    "source_name": "AnkerGames",
+    "url": "https://wkeynhk.online/ankergames.json",
+    "is_protected": 0,
+    "enabled": 0
+  },
+  {
+    "source_id": "hydrasources_nnmclub",
+    "source_name": "HydraSources.su | nnmclub",
+    "url": "https://hydrasources.su/nnmclub.json",
+    "is_protected": 0,
+    "enabled": 0
+  },
+  {
+    "source_id": "hydrasources_russian",
+    "source_name": "HydraSources(RUSSIAN)",
+    "url": "https://hydrasources.su/hydra.json",
+    "is_protected": 0,
+    "enabled": 0
+  },
+  {
+    "source_id": "anti_denuvo",
+    "source_name": "Anti-Denuvo Sanctuary",
+    "url": "https://git.denuvosanctuary.com/denuvosanctuary/hydra/raw/branch/main/source.json",
+    "is_protected": 0,
+    "enabled": 0
+  }
+]
